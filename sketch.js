@@ -36,6 +36,7 @@ function keyPressed() {
 
 }
 }
+
 		//README This game is a hangman game that asks the user to guess the letters to the word "digital".
     //I liked the thought of creating a hangman game and with the project using p5 i needed user input and this was a great way of doing so.
     //Trying to make this was difficult I had to look up some ways to begin. I had a great deal of help from my instructor who helped me get rid of errors and help all my functions actually work.
